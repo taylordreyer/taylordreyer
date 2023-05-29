@@ -14,7 +14,7 @@
   <br>
   <br>
   
-  ### Hello World! Feel free to waste time we both know you dont need in the dino gif. 🦖😉
+  ### Hello World! Feel free to waste time we both know you don't have in the dino gif. 🦖😉
    
 </div>
 
