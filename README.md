@@ -10,14 +10,10 @@
 ## Skills
 - 👨‍💻 C, Python
 
-
+<br>
+<br>
+<br>
 
 <div align="center">
-  
-<br>
-<br>
-<br>
-
-<img src="https://github.com/taylordreyer/taylordreyer/assets/125617552/bfb41093-35ed-4e61-bb0e-3d4c8e994285" width="300px">
-  
+  <img src="https://github.com/taylordreyer/taylordreyer/assets/125617552/bfb41093-35ed-4e61-bb0e-3d4c8e994285" width="600px">
 </div>
