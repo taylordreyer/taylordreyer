@@ -13,7 +13,6 @@
 <div align="center">
   <br>
   <br>
-  <br>
   
   ### Hello World! Feel free to get lost in the dino gif. 🦖 
    
