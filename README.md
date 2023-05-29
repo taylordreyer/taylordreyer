@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 
-![taylorDreyer gif](https://github.com/taylordreyer/taylordreyer/assets/125617552/089da413-ed32-487e-aab1-308f6fc7206d)
+![name gif](https://github.com/taylordreyer/taylordreyer/assets/125617552/6e5f405c-a986-4308-b67c-f55a4182cce1)
+
 
 
 
