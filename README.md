@@ -1,6 +1,6 @@
 ![name gif](https://github.com/taylordreyer/taylordreyer/assets/125617552/955645dc-125b-4a56-9cc5-956799f55152)
 
-## 👋 Hi! I'm Taylor, a student at the University of Central Florida! 🏫
+## 👋 Hi! I'm Taylor, a student at UCF! 🏫
 
 - 💻 Passionate about coding, music, living an active lifestyle, and learning new skills. 🎧
 - 🚀 Committed to a path of continuous improvement. 📈
