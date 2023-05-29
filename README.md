@@ -10,7 +10,12 @@
 ## Skills
 - 👨‍💻 C, Python
 
-<br>
+<div align="center">
+  
+### Hello World! Feel free to get lost in the dyno gif. 🦖 
+   
+</div>
+
 <br>
 <br>
 <br>
