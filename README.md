@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+https://github.com/taylordreyer/taylordreyer/assets/125617552/b430192e-7a89-4dd6-a2f9-9cb650a72db7
+
+
 <!--
 **taylordreyer/taylordreyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
