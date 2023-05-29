@@ -11,6 +11,6 @@
 - 👨‍💻 C, Python, HTML
 
 
+<img src="/images/output/video1.gif" width="250" height="250"/>
+![dino](https://github.com/taylordreyer/taylordreyer/assets/125617552/6cc79727-c2d4-49fd-b569-cc90f29fe9db)
 
-
-<img src="![dino](https://github.com/taylordreyer/taylordreyer/assets/125617552/6cc79727-c2d4-49fd-b569-cc90f29fe9db)" width="250" height="250"/>
