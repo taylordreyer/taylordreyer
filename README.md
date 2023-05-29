@@ -9,8 +9,7 @@ I'm Taylor, a student at University of Central Florida 🏫!
 
 
 ## Skills
-- 👨‍💻 C, Python, HTML                                                                                                                                                                                              
-
+- 👨‍💻 C, Python, HTML
 
 
 ![dino](https://github.com/taylordreyer/taylordreyer/assets/125617552/6cc79727-c2d4-49fd-b569-cc90f29fe9db)
