@@ -1,4 +1,4 @@
-![taylorDreyer gif](https://github.com/taylordreyer/taylordreyer/assets/125617552/b244a239-7ba0-4ba7-a416-2a26f46cd476)
+![name gif](https://github.com/taylordreyer/taylordreyer/assets/125617552/955645dc-125b-4a56-9cc5-956799f55152)
 
 ## 👋 Hi! I'm Taylor, a student at the University of Central Florida! 🏫
 
@@ -7,8 +7,10 @@
 -  📚 Constantly learning and open to new opportunities. 🔑
 
 
-## Skills
-- 👨‍💻 C, Python, HTML
+### Languages
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/taylordreyer)
+[![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=javascript)](https://github.com/taylordreyer)
+[![HTML](https://img.shields.io/badge/html-black?style=for-the-badge&logo=openjdk)](https://github.com/taylordreyer)
 
 <div align="center">
   <br>
