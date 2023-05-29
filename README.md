@@ -11,15 +11,15 @@
 - 👨‍💻 C, Python
 
 <div align="center">
+  <br>
+  <br>
+  <br>
   
-### Hello World! Feel free to get lost in the dyno gif. 🦖 
+  ### Hello World! Feel free to get lost in the dino gif. 🦖 
    
 </div>
-
-<br>
-<br>
-<br>
 
 <div align="center">
   <img src="https://github.com/taylordreyer/taylordreyer/assets/125617552/bfb41093-35ed-4e61-bb0e-3d4c8e994285" width="500px">
 </div>
+
