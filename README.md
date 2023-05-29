@@ -9,8 +9,8 @@
 <br>
 
 ### Languages
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/taylordreyer)
-[![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/taylordreyer)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/taylordreyer)
+[![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://github.com/taylordreyer)
 
 ### OS
 [![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/taylordreyer)
