@@ -11,5 +11,4 @@
 - 👨‍💻 C, Python, HTML
 
 
-<img src=">![dino](https://github.com/taylordreyer/taylordreyer/assets/125617552/bfb41093-35ed-4e61-bb0e-3d4c8e994285)" width="700" height="250"/
-    
+![dino](https://github.com/taylordreyer/taylordreyer/assets/125617552/bfb41093-35ed-4e61-bb0e-3d4c8e994285){:width="300px"}
