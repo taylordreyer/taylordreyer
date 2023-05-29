@@ -2,7 +2,7 @@
 
 ## 👋 Hi! I'm Taylor, a student at the University of Central Florida! 🏫
 
-- 💻 Passionate about coding, music, staying active, and learning new skills. 🎧
+- 💻 Passionate about coding, music, living an active lifestyle, and learning new skills. 🎧
 - 🚀 Committed to a path of continuous improvement. 📈
 -  📚 Constantly learning and open to new opportunities. 🔑
 
