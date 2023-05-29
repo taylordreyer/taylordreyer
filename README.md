@@ -1,6 +1,6 @@
 ![taylorDreyer gif](https://github.com/taylordreyer/taylordreyer/assets/125617552/b244a239-7ba0-4ba7-a416-2a26f46cd476)
 
-## Hi!👋 I'm Taylor, a student at the University of Central Florida! 🏫
+## 👋 Hi! I'm Taylor, a student at the University of Central Florida! 🏫
 
 - 💻 Passionate about coding, music, staying active, and learning new skills. 🎧
 - 🚀 Committed to a path of continuous improvement. 📈
@@ -8,7 +8,7 @@
 
 
 ## Skills
-- 👨‍💻 C, Python
+- 👨‍💻 C, Python, HTML
 
 <div align="center">
   <br>
