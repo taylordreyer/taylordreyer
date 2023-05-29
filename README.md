@@ -7,12 +7,13 @@
 -  📚 Constantly learning and open to new opportunities. 🔑
 
 <br>
-<br>
 
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/taylordreyer)
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/taylordreyer)
 
+### OS
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
 <div align="center">
   <br>
