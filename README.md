@@ -13,7 +13,9 @@
 <br>
 <br>
 <br>
+<br>
+<br>
 
 <div align="center">
-  <img src="https://github.com/taylordreyer/taylordreyer/assets/125617552/bfb41093-35ed-4e61-bb0e-3d4c8e994285" width="600px">
+  <img src="https://github.com/taylordreyer/taylordreyer/assets/125617552/bfb41093-35ed-4e61-bb0e-3d4c8e994285" width="500px">
 </div>
